@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "威風堂々",
+  "base_artist": "青柳冬弥",
+  "createdAt": "2025-12-05T14:58:26.018109Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "威風堂々 (ver.D/D)",
+      "artist": "梅とら",
+      "has_synced": true,
+      "path": "select/01_威風堂々_(ver.D_D)_梅とら.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "威風堂々-Nhato Remix-",
+      "artist": "梅とら",
+      "has_synced": false,
+      "path": "select/02_威風堂々-Nhato_Remix-_梅とら.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "威風堂々- ver.D/D⁣",
+      "artist": "梅とら⁣",
+      "has_synced": true,
+      "path": "select/03_威風堂々-_ver.D_D⁣_梅とら⁣.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "威風堂々 - Ifuudoudou (feat. 東雲彰人&青柳冬弥&KAITO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/04_威風堂々_-_Ifuudoudou_(feat._東雲彰人&青柳冬弥&KAITO)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "威風堂々",
+      "artist": "梅とら",
+      "has_synced": false,
+      "path": "select/05_威風堂々_梅とら.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "威風堂々",
+      "artist": "Umetora feat. Megurine, Luka、Hatsune, Miku、GUMI、IA、Kagamine, Rin＆MAYU",
+      "has_synced": true,
+      "path": "select/06_威風堂々_Umetora_feat._Megurine,_Luka、Hatsune,_Miku、GUMI、IA、Kagamine,_Rin&MAYU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "bambino bambina (エルガー『威風堂々』)",
+      "artist": "BIGMAMA",
+      "has_synced": true,
+      "path": "select/07_bambino_bambina_(エルガー『威風堂々』)_BIGMAMA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "威風堂々",
+      "artist": "平原綾香",
+      "has_synced": false,
+      "path": "select/08_威風堂々_平原綾香.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ifuudoudou (威風堂々)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/09_Ifuudoudou_(威風堂々)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "威風堂々",
+      "artist": "Umetora (feat. Shoose)",
+      "has_synced": true,
+      "path": "select/10_威風堂々_Umetora_(feat._Shoose).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "威風堂々 -Nhato Remix-",
+      "artist": "Nhato",
+      "has_synced": false,
+      "path": "select/11_威風堂々_-Nhato_Remix-_Nhato.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "威風堂々",
+      "artist": "青柳冬弥",
+      "has_synced": false,
+      "path": "select/pl_01_威風堂々_青柳冬弥.txt"
+    }
+  ]
+}
